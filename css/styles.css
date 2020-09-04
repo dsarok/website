@@ -1,0 +1,99 @@
+#title{
+    background-color: crimson;
+    line-height: 3;
+    padding: 1cm 0cm;
+     }
+h1{
+font-family: 'Montserrat-Bold', sans-serif;
+font-size: 3rem;
+color: white ;
+line-height: 2.5cm;
+font-weight: bold;
+
+}
+.gg{
+   line-height: 3cm;
+   font-family: 'Montserrat', sans-serif;
+   margin-bottom: 1cm;
+}
+.abc{
+    padding-top: 3cm;
+    line-height: 2.5cm;
+    font-weight: 700;
+}
+.rr{
+    margin-bottom : 2cm;
+}
+.rotated{
+    transform: rotate(30deg);
+}
+a{
+    font-weight: 900;
+    margin-left: 1.5cm;
+}
+a.hover{
+    color: white;
+}
+.ro{
+    margin-left: 0;
+}
+.middle{
+   margin-bottom: 3cm;
+   margin-top: 0px;
+   padding-top: 0px;
+   position: relative;
+   
+}
+#testimonials{
+background-color: crimson;
+text-align: center;
+margin-top:2cm ;
+padding-bottom: 2cm;
+
+}
+.testimonial-text{
+   margin: auto;
+   color: white;
+   padding-left: 30px;
+   padding-right: 30px;
+   font-weight: 700;
+}
+.testimonial-image{
+    border-radius: 100%;
+    width: 3cm;
+    margin: 20px;
+    ;
+}
+#press{
+    background-color: crimson;
+    text-align: center;
+  padding-bottom: 1cm;
+   padding-top: 1.5cm;
+  }
+.pding{
+    padding:7% 15% ;}
+.overlap{
+   height: 5cm;
+    width: 100%;
+    background-color: white;
+    position: relative;
+    top: -5cm;
+    margin: 0em;
+}
+.rod{
+    margin: 0em;
+    position: relative;
+   }
+#cta{
+    background-color: coral;
+    text-align: center;
+    padding: 2cm;
+    font-family: 'Montserrat';
+}
+#footer{
+    text-align: center;
+    margin: 1cm;
+}
+.container{
+    padding: 0;
+}
